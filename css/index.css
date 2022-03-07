@@ -1,0 +1,16 @@
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.coverPage {
+    max-height: 500px;
+}
+
+.floatL {
+    float: left;
+    padding-right: 50px;
+}
